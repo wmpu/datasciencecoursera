@@ -1,6 +1,4 @@
 ###biggest
-*first
-*second
-*third
+*first*second*third
 #big
 ##smallest
