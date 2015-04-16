@@ -1,5 +1,5 @@
 ###biggest
 *first
-*second*
+*second
 #big
 ##smallest
